@@ -1,0 +1,13 @@
+{
+    "PortSetting": {
+"host": "localhost",
+"port": 3000
+},
+"DataBaseSetting": {
+"host": "127.0.0.1",
+"port": 27017,
+"db": "twittercloneDatabase",
+"username":"",
+"password":""
+}
+}
